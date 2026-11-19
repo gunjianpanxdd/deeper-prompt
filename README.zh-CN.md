@@ -1,5 +1,7 @@
 # deeper-prompt
 
+[English](./README.md) | **简体中文**
+
 > 名字取自核心原则「**要更深，不要更大**」（deeper, not bigger）。
 > 一个在**执行前**把任意提示词升级为「更深版本」的 skill——而不是拿到任务就直接开干。
 

@@ -1,5 +1,7 @@
 # deeper-prompt
 
+**English** | [简体中文](./README.zh-CN.md)
+
 > Named after the core principle: **deeper, not bigger**.
 > A skill that upgrades any prompt into a deeper, more ambitious version **before
 > execution** — instead of just running the task as handed over.
